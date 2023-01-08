@@ -1,0 +1,5 @@
+shop/shopApp/service/shopService.class
+shop/shopApp/ShopAppApplication.class
+shop/shopApp/model/shopModel.class
+shop/shopApp/repository/shopRepository.class
+shop/shopApp/controller/shopController.class
